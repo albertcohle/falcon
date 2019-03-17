@@ -1,0 +1,7 @@
+{
+  "name": "falcon",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "albert.cohle <albert.cohle@gmail.com>",
+  "license": "MIT"
+}
